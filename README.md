@@ -27,7 +27,7 @@ Image: An image relevant to the case study
 ![stripe logo](image/stripe.png)
 
 H2 description: A description header
-# 6 Lines of code
+
 
 Description content: Content for the description
 
@@ -35,7 +35,7 @@ Description content: Content for the description
 Contributors: The names of everyone in your group
 
 
-H3 heading: A title for the FinTech case study report
+# Shortage in Engineering Talent
 
 
 Case study content: Content for the case study
