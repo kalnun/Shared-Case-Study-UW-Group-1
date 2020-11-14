@@ -27,7 +27,7 @@ Image: An image relevant to the case study
 ![stripe logo](image/stripe.png)
 
 H2 description: A description header
-
+# 6 Lines of code
 
 Description content: Content for the description
 
