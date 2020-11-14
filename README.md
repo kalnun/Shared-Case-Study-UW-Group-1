@@ -21,7 +21,7 @@ Modify the README file to include the following features. Note: The list below i
 
 
 H1 heading: A title for the FinTech case study
-
+# Stripe Ecosystem
 
 Image: An image relevant to the case study
 
